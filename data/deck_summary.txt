@@ -1,0 +1,4 @@
+Remaining Cards: 50
+Drawn Cards:
+- 9 of DIAMONDS
+- 7 of HEARTS
